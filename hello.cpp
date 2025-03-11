@@ -6,6 +6,11 @@ void member2_func()
 
 }
 
+void memb1_branch_func()
+{
+	cout<<"branch of m1";
+}
+
 int main()
 {
 
