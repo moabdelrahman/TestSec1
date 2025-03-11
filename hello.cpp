@@ -3,6 +3,7 @@
 int main()
 {
 
-cout<<hello;
+cout<<"hello Ahmed";
+cout<<"Bye";
 
 }
